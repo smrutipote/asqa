@@ -1,0 +1,40 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip list:*)",
+      "Bash(python3 -c ':*)",
+      "Bash(pip install:*)",
+      "Bash(python3 run_pipeline.py 3)",
+      "Bash(python3 -m json.tool --no-ensure-ascii)",
+      "Bash(docker info:*)",
+      "Bash(python3 run_pipeline.py)",
+      "Bash(tee /tmp/asqa_pipeline_run.log)",
+      "Bash(pandoc /Users/akshaysmruti/Downloads/asqa/ML-proposal-final.docx -o /tmp/proposal.md)",
+      "Bash(python3 run_baselines.py gpt4o 50)",
+      "Bash(tee /tmp/asqa_baseline_gpt4o.log)",
+      "Bash(python3 run_baselines.py claude 50)",
+      "Bash(tee /tmp/asqa_baseline_claude.log)",
+      "Bash(python3 -m json.tool)",
+      "Bash(python3 run_pipeline.py 50)",
+      "Bash(tee /tmp/asqa_pipeline.log)",
+      "Bash(tee /tmp/asqa_bl_gpt4o.log)",
+      "Bash(tee /tmp/asqa_bl_claude.log)",
+      "Bash(tee /tmp/asqa_bl_claude2.log)",
+      "Bash(brew list:*)",
+      "Bash(npm create:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(uvicorn backend.api:app --port 8000)",
+      "Bash(curl -s http://localhost:8000/api/health)",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "Bash(curl -s http://localhost:5173/)",
+      "Bash(pkill -f \"uvicorn backend.api\")",
+      "Bash(pkill -f \"vite\")",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(timeout 30 curl -s -N -X POST http://localhost:8000/api/analyze -H 'Content-Type: application/json' -d '{\"code\":\"def divide\\(a,b\\):\\\\n    return a/b\",\"language\":\"python\",\"description\":\"no zero check\"}')",
+      "Bash(timeout 120 curl -s -N -X POST http://localhost:8000/api/analyze -H 'Content-Type: application/json' -d '{\"code\":\"def divide\\(a,b\\):\\\\n    return a/b\",\"language\":\"python\",\"description\":\"no zero division check\"}')",
+      "Bash(timeout 180 curl -s -N -X POST http://localhost:8000/api/analyze -H 'Content-Type: application/json' -d '{\"code\":\"def divide\\(a,b\\):\\\\n    return a/b\",\"language\":\"python\",\"description\":\"no zero check\"}')",
+      "Bash(timeout 120 curl -s -N -X POST http://localhost:8000/api/analyze -H 'Content-Type: application/json' -d '{\"code\":\"def divide\\(a,b\\):\\\\n    return a/b\",\"language\":\"python\",\"description\":\"no zero check\"}')"
+    ]
+  }
+}

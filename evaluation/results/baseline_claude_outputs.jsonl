@@ -1,0 +1,50 @@
+{"bug_id": "bugsinpy_keras_32", "final_status": "failed", "test_passed_on_buggy": null, "cost_usd": null, "mttr_seconds": 36.88118886947632, "error_message": "Expecting value: line 1 column 1 (char 0)"}
+{"bug_id": "bugsinpy_keras_35", "final_status": "failed", "test_passed_on_buggy": null, "cost_usd": null, "mttr_seconds": 35.19083499908447, "error_message": "Expecting value: line 1 column 1 (char 0)"}
+{"bug_id": "bugsinpy_keras_34", "final_status": "failed", "test_passed_on_buggy": null, "cost_usd": null, "mttr_seconds": 30.26090908050537, "error_message": "Expecting value: line 1 column 1 (char 0)"}
+{"bug_id": "bugsinpy_keras_33", "final_status": "failed", "test_passed_on_buggy": null, "cost_usd": null, "mttr_seconds": 22.710450172424316, "error_message": "Expecting value: line 1 column 1 (char 0)"}
+{"bug_id": "bugsinpy_keras_20", "final_status": "failed", "test_passed_on_buggy": null, "cost_usd": null, "mttr_seconds": 34.479904890060425, "error_message": "Expecting value: line 1 column 1 (char 0)"}
+{"bug_id": "bugsinpy_keras_18", "final_status": "failed", "test_passed_on_buggy": null, "cost_usd": null, "mttr_seconds": 29.10530710220337, "error_message": "Expecting value: line 1 column 1 (char 0)"}
+{"bug_id": "bugsinpy_keras_27", "final_status": "completed", "test_passed_on_buggy": false, "cost_usd": null, "mttr_seconds": 26.615562915802002, "error_message": null}
+{"bug_id": "bugsinpy_keras_9", "final_status": "failed", "test_passed_on_buggy": null, "cost_usd": null, "mttr_seconds": 27.03973889350891, "error_message": "Extra data: line 3 column 4 (char 4420)"}
+{"bug_id": "bugsinpy_keras_11", "final_status": "failed", "test_passed_on_buggy": null, "cost_usd": null, "mttr_seconds": 25.159367322921753, "error_message": "Expecting value: line 1 column 1 (char 0)"}
+{"bug_id": "bugsinpy_keras_7", "final_status": "completed", "test_passed_on_buggy": false, "cost_usd": null, "mttr_seconds": 23.427289962768555, "error_message": null}
+{"bug_id": "bugsinpy_keras_29", "final_status": "failed", "test_passed_on_buggy": null, "cost_usd": null, "mttr_seconds": 31.875980138778687, "error_message": "Expecting value: line 1 column 1 (char 0)"}
+{"bug_id": "bugsinpy_keras_16", "final_status": "failed", "test_passed_on_buggy": null, "cost_usd": null, "mttr_seconds": 28.379477739334106, "error_message": "Expecting value: line 1 column 1 (char 0)"}
+{"bug_id": "bugsinpy_keras_42", "final_status": "failed", "test_passed_on_buggy": null, "cost_usd": null, "mttr_seconds": 38.17121410369873, "error_message": "Expecting value: line 1 column 1 (char 0)"}
+{"bug_id": "bugsinpy_keras_45", "final_status": "failed", "test_passed_on_buggy": null, "cost_usd": null, "mttr_seconds": 30.00043797492981, "error_message": "Expecting value: line 1 column 1 (char 0)"}
+{"bug_id": "bugsinpy_keras_6", "final_status": "completed", "test_passed_on_buggy": false, "cost_usd": null, "mttr_seconds": 25.264063835144043, "error_message": null}
+{"bug_id": "bugsinpy_keras_28", "final_status": "failed", "test_passed_on_buggy": null, "cost_usd": null, "mttr_seconds": 25.220616102218628, "error_message": "Expecting value: line 1 column 1 (char 0)"}
+{"bug_id": "bugsinpy_keras_17", "final_status": "completed", "test_passed_on_buggy": false, "cost_usd": null, "mttr_seconds": 26.387866973876953, "error_message": null}
+{"bug_id": "bugsinpy_keras_1", "final_status": "failed", "test_passed_on_buggy": null, "cost_usd": null, "mttr_seconds": 40.96260690689087, "error_message": "Expecting value: line 1 column 1 (char 0)"}
+{"bug_id": "bugsinpy_keras_10", "final_status": "failed", "test_passed_on_buggy": null, "cost_usd": null, "mttr_seconds": 40.57521390914917, "error_message": "Expecting value: line 1 column 1 (char 0)"}
+{"bug_id": "bugsinpy_keras_19", "final_status": "failed", "test_passed_on_buggy": null, "cost_usd": null, "mttr_seconds": 42.50406098365784, "error_message": "Expecting value: line 1 column 1 (char 0)"}
+{"bug_id": "bugsinpy_keras_26", "final_status": "completed", "test_passed_on_buggy": false, "cost_usd": null, "mttr_seconds": 29.173877000808716, "error_message": null}
+{"bug_id": "bugsinpy_keras_8", "final_status": "failed", "test_passed_on_buggy": null, "cost_usd": null, "mttr_seconds": 33.68457388877869, "error_message": "Expecting value: line 1 column 1 (char 0)"}
+{"bug_id": "bugsinpy_keras_21", "final_status": "failed", "test_passed_on_buggy": null, "cost_usd": null, "mttr_seconds": 32.66367793083191, "error_message": "Expecting value: line 1 column 1 (char 0)"}
+{"bug_id": "bugsinpy_keras_44", "final_status": "completed", "test_passed_on_buggy": false, "cost_usd": null, "mttr_seconds": 23.069355010986328, "error_message": null}
+{"bug_id": "bugsinpy_keras_43", "final_status": "completed", "test_passed_on_buggy": false, "cost_usd": null, "mttr_seconds": 21.250635147094727, "error_message": null}
+{"bug_id": "bugsinpy_keras_38", "final_status": "completed", "test_passed_on_buggy": false, "cost_usd": null, "mttr_seconds": 29.581568002700806, "error_message": null}
+{"bug_id": "bugsinpy_keras_36", "final_status": "failed", "test_passed_on_buggy": null, "cost_usd": null, "mttr_seconds": 24.042150735855103, "error_message": "Expecting value: line 1 column 1 (char 0)"}
+{"bug_id": "bugsinpy_keras_31", "final_status": "completed", "test_passed_on_buggy": false, "cost_usd": null, "mttr_seconds": 25.51561188697815, "error_message": null}
+{"bug_id": "bugsinpy_keras_30", "final_status": "completed", "test_passed_on_buggy": false, "cost_usd": null, "mttr_seconds": 31.212685108184814, "error_message": null}
+{"bug_id": "bugsinpy_keras_37", "final_status": "failed", "test_passed_on_buggy": null, "cost_usd": null, "mttr_seconds": 27.288156986236572, "error_message": "Expecting value: line 1 column 1 (char 0)"}
+{"bug_id": "bugsinpy_keras_39", "final_status": "completed", "test_passed_on_buggy": false, "cost_usd": null, "mttr_seconds": 21.91810417175293, "error_message": null}
+{"bug_id": "bugsinpy_keras_41", "final_status": "failed", "test_passed_on_buggy": null, "cost_usd": null, "mttr_seconds": 40.242249965667725, "error_message": "Expecting value: line 1 column 1 (char 0)"}
+{"bug_id": "bugsinpy_keras_24", "final_status": "completed", "test_passed_on_buggy": false, "cost_usd": null, "mttr_seconds": 20.634562015533447, "error_message": null}
+{"bug_id": "bugsinpy_keras_23", "final_status": "completed", "test_passed_on_buggy": false, "cost_usd": null, "mttr_seconds": 23.877454042434692, "error_message": null}
+{"bug_id": "bugsinpy_keras_4", "final_status": "completed", "test_passed_on_buggy": false, "cost_usd": null, "mttr_seconds": 26.207449674606323, "error_message": null}
+{"bug_id": "bugsinpy_keras_15", "final_status": "failed", "test_passed_on_buggy": null, "cost_usd": null, "mttr_seconds": 25.838451147079468, "error_message": "Expecting value: line 1 column 1 (char 0)"}
+{"bug_id": "bugsinpy_keras_3", "final_status": "failed", "test_passed_on_buggy": null, "cost_usd": null, "mttr_seconds": 31.636213064193726, "error_message": "Expecting value: line 1 column 1 (char 0)"}
+{"bug_id": "bugsinpy_keras_12", "final_status": "failed", "test_passed_on_buggy": null, "cost_usd": null, "mttr_seconds": 7.06245493888855, "error_message": "Expecting value: line 1 column 1 (char 0)"}
+{"bug_id": "bugsinpy_keras_40", "final_status": "failed", "test_passed_on_buggy": null, "cost_usd": null, "mttr_seconds": 30.189022064208984, "error_message": "Expecting value: line 1 column 1 (char 0)"}
+{"bug_id": "bugsinpy_keras_2", "final_status": "completed", "test_passed_on_buggy": false, "cost_usd": null, "mttr_seconds": 21.516802072525024, "error_message": null}
+{"bug_id": "bugsinpy_keras_13", "final_status": "completed", "test_passed_on_buggy": false, "cost_usd": null, "mttr_seconds": 24.96391201019287, "error_message": null}
+{"bug_id": "bugsinpy_keras_5", "final_status": "completed", "test_passed_on_buggy": false, "cost_usd": null, "mttr_seconds": 26.318042993545532, "error_message": null}
+{"bug_id": "bugsinpy_keras_14", "final_status": "completed", "test_passed_on_buggy": false, "cost_usd": null, "mttr_seconds": 23.34754490852356, "error_message": null}
+{"bug_id": "bugsinpy_keras_22", "final_status": "completed", "test_passed_on_buggy": false, "cost_usd": null, "mttr_seconds": 23.43941330909729, "error_message": null}
+{"bug_id": "bugsinpy_keras_25", "final_status": "completed", "test_passed_on_buggy": false, "cost_usd": null, "mttr_seconds": 22.91007113456726, "error_message": null}
+{"bug_id": "bugsinpy_thefuck_32", "final_status": "completed", "test_passed_on_buggy": false, "cost_usd": null, "mttr_seconds": 19.05863308906555, "error_message": null}
+{"bug_id": "bugsinpy_thefuck_20", "final_status": "completed", "test_passed_on_buggy": false, "cost_usd": null, "mttr_seconds": 23.162799835205078, "error_message": null}
+{"bug_id": "bugsinpy_thefuck_18", "final_status": "completed", "test_passed_on_buggy": false, "cost_usd": null, "mttr_seconds": 21.626054048538208, "error_message": null}
+{"bug_id": "bugsinpy_thefuck_27", "final_status": "completed", "test_passed_on_buggy": false, "cost_usd": null, "mttr_seconds": 21.2520911693573, "error_message": null}
+{"bug_id": "bugsinpy_thefuck_9", "final_status": "completed", "test_passed_on_buggy": false, "cost_usd": null, "mttr_seconds": 17.83752679824829, "error_message": null}

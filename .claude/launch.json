@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "asqa-frontend",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "/Users/akshaysmruti/Downloads/asqa/frontend", "run", "dev"],
+      "port": 5173
+    }
+  ]
+}

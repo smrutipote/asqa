@@ -1,0 +1,11 @@
+# Dockerfile for Python test execution sandbox
+FROM python:3.11-slim
+
+# Install pytest and dependencies
+RUN pip install --no-cache-dir pytest pytest-cov pytest-timeout git
+
+# Set working directory
+WORKDIR /repo
+
+# Run pytest by default
+CMD ["pytest", "--tb=short", "-v"]
