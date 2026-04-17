@@ -82,9 +82,9 @@ is drawn from the datasets used,
 of research methods applied in the project.
 
 4 Final Report (80% Marks)
-The final report must follow the IEEE conference format and should be between 5-6
+The final report must follow the IEEE conference format and should be between 7
 double-column pages in length (this includes all figures, but not references or the project
-cover sheet). For this report IEEE referencing style should be used. Papers over 6
+cover sheet). For this report IEEE referencing style should be used. Papers over 7
 pages will be subjected to a 5% point penalty, i.e., the maximum mark for the paper
 will be 95%. Microsoft Word and LATEX templates are available at http://www.ieee.
 org/conferences_events/conferences/publishing/templates.html. The following
@@ -125,7 +125,7 @@ model evaluation. You should also discuss any reasons for underperformance, bias
 or limitations in the dataset or model design. Evaluate how different parameters,
 regularization, and optimizations used throughout the project have impacted the
 results. Reflect on any remaining issues and suggest possible ways to refine or
-improve the models.
+improve the models.(include figures)
 7. Conclusions and Future Work: Summarize the key findings of your research
 and their implications. Discuss any limitations encountered in the study and propose potential extensions or improvements for future work. Reflect on how your
 research contributes to the field and offers partial answers to the research questions
